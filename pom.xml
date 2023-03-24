@@ -21,6 +21,10 @@
             <id>projectlombok.org</id>
             <url>http://projectlombok.org/mavenrepo</url>
         </repository>
+        <repository>
+            <id>buran-center</id>
+            <url>https://mvn.buran.center/releases</url>
+        </repository>
     </repositories>
 
 
